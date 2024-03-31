@@ -1,0 +1,2 @@
+----Imersão Python: Do excel à analise de dados da Alura
+----Tomei a liberdade de fazer algumas testes e deixar nas linhas de código, assim como o nome dos arquivos
